@@ -9,7 +9,8 @@
     </mt-header>
 
 
-    <router-view></router-view>
+    <router-view jsCssComponent="jscss"></router-view>
+
 
 
     <mt-tabbar :fixed=true  v-model="selected">

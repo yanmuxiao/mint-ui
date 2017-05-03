@@ -2,32 +2,11 @@
 
 	<div class="main-content">
 
-		<mt-cell title="标题文字1" is-link to="/CSSComponent"></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
-		<mt-cell title="标题文字1" is-link></mt-cell>
+		<mt-cell :title="jsCssComponent" is-link></mt-cell>
+		<mt-cell :title="jsCssComponent" is-link></mt-cell>
+		<mt-cell :title="jsCssComponent" is-link></mt-cell>
+		<mt-cell :title="jsCssComponent" is-link></mt-cell>
+		<mt-cell :title="jsCssComponent" is-link></mt-cell>
 
 	</div>
 
@@ -52,6 +31,8 @@
   
 
   export default {
+
+  	props: ['jsCssComponent'],
 
     data () {
       return {
