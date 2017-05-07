@@ -2,10 +2,7 @@
 
 	<div class="main-content">
 
-		<mt-cell :title="jsCssComponent" is-link></mt-cell>
-		<mt-cell :title="jsCssComponent" is-link></mt-cell>
-		<mt-cell :title="jsCssComponent" is-link></mt-cell>
-		<mt-cell :title="jsCssComponent" is-link></mt-cell>
+    <mt-cell :title="jsCssComponent" is-link></mt-cell>
 		<mt-cell :title="jsCssComponent" is-link></mt-cell>
 
 	</div>

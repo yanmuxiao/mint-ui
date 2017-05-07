@@ -13,21 +13,6 @@
 		<mt-cell title="标题文字" is-link></mt-cell>
 		<mt-cell title="标题文字" is-link></mt-cell>
 		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
-		<mt-cell title="标题文字" is-link></mt-cell>
 
 	</div>
 
